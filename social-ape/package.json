@@ -1,0 +1,21 @@
+{
+  "name": "social-ape",
+  "version": "1.0.0",
+  "description": "Social Network",
+  "main": "index.js",
+  "repository": "https://github.com/rafaelsantana1/social-ape",
+  "dependencies": {
+    "busboy": "^0.3.1",
+    "create-react-app": "^3.4.0",
+    "express": "^4.17.1",
+    "firebase": "^7.12.0",
+    "firebase-admin": "^8.10.0",
+    "firebase-functions": "^3.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

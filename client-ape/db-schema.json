@@ -1,0 +1,32 @@
+{
+    "screams": {
+        "body": "fresh scream",
+        "commentCount": 0,
+        "createdAt": "2020-03-03T05:43:45.276Z",
+        "likeCount": 3,
+        "userHandle": "user",
+        "userImage": "https://firebasestorage.googleapis.com/v0/b/social-ape-ca574.appspot.com/o/no-img.jpg?alt=media"
+    },
+
+    "users": {
+        "createdAt": "2020-02-29T18:39:25.191Z",
+        "email": "img-user@email.com",
+        "handle": "img-user",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/social-ape-ca574.appspot.com/o/no-img.png?alt=media",
+        "userId": "lcMfNlXAE5gjQ7QyyXnTWKpIU6l1"
+    },
+
+    "likes": {
+        "screamId": "OaHe0D2GWpZdQu9QCBqk",
+        "userHandle": "user"
+    },
+
+    "notifications": {
+        "createdAt": "2020-02-29T18:39:25.191Z",
+        "read": true,
+        "recipient": "user2",
+        "screamId": "OaHe0D2GWpZdQu9QCBqk",
+        "sender": "user",
+        "type": "like"
+    }
+}

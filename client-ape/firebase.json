@@ -1,0 +1,17 @@
+{
+  "hosting": {
+    "public": "build",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]//,
+    // // fix to work on other machines
+    // "headers": [
+    //   {
+    //     "source": "/service-worker.js",
+    //     "headers": [{ "key": "Cache-Control", "value": "no-cache" }]
+    //   }
+    // ]
+  }
+}
